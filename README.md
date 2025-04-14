@@ -24,7 +24,7 @@ Generates an equation based on a template and performs argument mapping if neede
 #### **Example of an output structure:**
 ![Example Image](https://github.com/jakxcvv/jakxcvv1/blob/main/photo_2025-04-14_10-52-11.jpg)
 
-#### **Result Codes**
+## **Result Codes**
 Possible result codes:
 
 | Code                             | Description                                   |
